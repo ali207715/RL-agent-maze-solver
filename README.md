@@ -4,4 +4,4 @@ A reinforcement learning agent that utilizes temporal learning and SARSA algorit
 **VISUALISATION FOR THE MAZE IS UNDER WORK**
 
 # Preview
-![img]().
+![img](https://github.com/ali207715/Reinforcement-learning-agent/blob/main/1.PNG).
